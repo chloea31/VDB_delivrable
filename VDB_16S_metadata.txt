@@ -1,0 +1,110 @@
+SampleID	Gender	Floor	Building	Surface
+EKCM2.489495	Male	C	Ekeley	Door out
+EKBM8.489473	Male	B	Ekeley	Faucet handles
+EKCF4.489498	Female	C	Ekeley	Stall out
+PTBM9.489505	Male	B	Porter	Soap dispenser
+EKBF10.489552	Female	B	Ekeley	Sink floor
+PTAM4.489517	Male	A	Porter	Stall out
+EKCM1.489478	Male	C	Ekeley	Door in
+EKAM4.489564	Male	A	Ekeley	Stall out
+EKCM7.489464	Male	C	Ekeley	Toilet Floor
+EKAM1.489459	Male	A	Ekeley	Door in
+EKBM2.489466	Male	B	Ekeley	Door out
+EKCM8.489573	Male	C	Ekeley	Faucet handles
+PTCM3.489508	Male	C	Porter	Stall in
+EKCF1.489542	Female	C	Ekeley	Door in
+EKCF2.489571	Female	C	Ekeley	Door out
+PTAF1.489471	Female	A	Porter	Door in
+EKCF8.489457	Female	C	Ekeley	Faucet handles
+EKCM4.489509	Male	C	Ekeley	Stall out
+PTAM8.489453	Male	A	Porter	Faucet handles
+PTAM3.489461	Male	A	Porter	Stall in
+EKAM8.489462	Male	A	Ekeley	Faucet handles
+PTAM6.489451	Male	A	Porter	Toilet flush handle
+PTAF8.489480	Female	A	Porter	Faucet handles
+EKAM6.489544	Male	A	Ekeley	Toilet flush handle
+EKBF8.489493	Female	B	Ekeley	Faucet handles
+PTCM1.489536	Male	C	Porter	Door in
+EKBF1.489501	Female	B	Ekeley	Door in
+EKBM10.489477	Male	B	Ekeley	Sink floor
+EKAM7.489572	Male	A	Ekeley	Toilet Floor
+PTBM10.489535	Male	B	Porter	Sink floor
+EKCF7.489557	Female	C	Ekeley	Toilet Floor
+PTAM10.489487	Male	A	Porter	Sink floor
+EKAF10.489503	Female	A	Ekeley	Sink floor
+PTBF10.489566	Female	B	Porter	Sink floor
+EKCM10.489502	Male	C	Ekeley	Sink floor
+PTBF9.489570	Female	B	Porter	Soap dispenser
+EKBM7.489474	Male	B	Ekeley	Toilet Floor
+PTBM6.489476	Male	B	Porter	Toilet flush handle
+PTAF10.489458	Female	A	Porter	Sink floor
+PTCF5.489507	Female	C	Porter	Toilet seat
+PTCF6.489533	Female	C	Porter	Toilet flush handle
+EKAM10.489518	Male	A	Ekeley	Sink floor
+EKAF5.489565	Female	A	Ekeley	Toilet seat
+PTCM10.489512	Male	C	Porter	Sink floor
+EKCF10.489541	Female	C	Ekeley	Sink floor
+PTAF7.489568	Female	A	Porter	Toilet Floor
+EKBF7.489524	Female	B	Ekeley	Toilet Floor
+PTAM7.489553	Male	A	Porter	Toilet Floor
+PTBF7.489532	Female	B	Porter	Toilet Floor
+PTCF3.489529	Female	C	Porter	Stall in
+PTCF2.489540	Female	C	Porter	Door out
+PTCF1.489467	Female	C	Porter	Door in
+PTCM9.489527	Male	C	Porter	Soap dispenser
+EKCF5.489488	Female	C	Ekeley	Toilet seat
+PTCF9.489454	Female	C	Porter	Soap dispenser
+PTCF4.489538	Female	C	Porter	Stall out
+PTCM4.489484	Male	C	Porter	Stall out
+PTBF5.489479	Female	B	Porter	Toilet seat
+PTCM7.489468	Male	C	Porter	Toilet Floor
+PTCM5.489525	Male	C	Porter	Toilet seat
+EKBF2.489510	Female	B	Ekeley	Door out
+EKCF6.489456	Female	C	Ekeley	Toilet flush handle
+PTCF10.489534	Female	C	Porter	Sink floor
+PTAM5.489496	Male	A	Porter	Toilet seat
+EKCM6.489475	Male	C	Ekeley	Toilet flush handle
+EKAF7.489567	Female	A	Ekeley	Toilet Floor
+EKAF6.489460	Female	A	Ekeley	Toilet flush handle
+EKCM5.489561	Male	C	Ekeley	Toilet seat
+PTAF9.489513	Female	A	Porter	Soap dispenser
+PTCM2.489469	Male	C	Porter	Door out
+PTCM8.489465	Male	C	Porter	Faucet handles
+PTBM4.489490	Male	B	Porter	Stall out
+EKBM4.489515	Male	B	Ekeley	Stall out
+EKBM3.489450	Male	B	Ekeley	Stall in
+EKBF4.489491	Female	B	Ekeley	Stall out
+PTAM9.489543	Male	A	Porter	Soap dispenser
+EKAF4.489521	Female	A	Ekeley	Stall out
+EKAM5.489530	Male	A	Ekeley	Toilet seat
+PTBM7.489547	Male	B	Porter	Toilet Floor
+EKCF9.489499	Female	C	Ekeley	Soap dispenser
+PTBM2.489516	Male	B	Porter	Door out
+EKAF9.489500	Female	A	Ekeley	Soap dispenser
+PTAF6.489492	Female	A	Porter	Toilet flush handle
+PTAF2.489522	Female	A	Porter	Door out
+PTBM8.489497	Male	B	Porter	Faucet handles
+EKBM9.489548	Male	B	Ekeley	Soap dispenser
+EKAF8.489558	Female	A	Ekeley	Faucet handles
+PTCM6.489574	Male	C	Porter	Toilet flush handle
+EKAF2.489569	Female	A	Ekeley	Door out
+EKBF5.489551	Female	B	Ekeley	Toilet seat
+EKAF1.489470	Female	A	Ekeley	Door in
+PTBM3.489559	Male	B	Porter	Stall in
+PTAM2.489554	Male	A	Porter	Door out
+PTCF7.489531	Female	C	Porter	Toilet Floor
+EKBM6.489504	Male	B	Ekeley	Toilet flush handle
+EKBF9.489520	Female	B	Ekeley	Soap dispenser
+PTBF2.489545	Female	B	Porter	Door out
+EKBM5.489472	Male	B	Ekeley	Toilet seat
+PTAF5.489560	Female	A	Porter	Toilet seat
+EKAF3.489546	Female	A	Ekeley	Stall in
+PTCF8.489486	Female	C	Porter	Faucet handles
+EKCM9.489514	Male	C	Ekeley	Soap dispenser
+PTBF4.489483	Female	B	Porter	Stall out
+PTBF1.489562	Female	B	Porter	Door in
+B6.489449	None	C	Porter	Water
+B5.489455	None	B	Porter	Water
+B1.489537	None	A	Ekeley	Water
+B3.489528	None	C	Ekeley	Water
+B2.489526	None	B	Ekeley	Water
