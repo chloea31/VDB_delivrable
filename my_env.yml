@@ -1,0 +1,16 @@
+name: env_vdb
+channels:
+- bioconda
+- conda-forge
+- default
+dependencies:
+- plotly
+- python=3.9.*
+- pip
+- numpy
+- scipy
+- pandas
+- jupyter
+- matplotlib
+- pip:
+  - scikit-learn
