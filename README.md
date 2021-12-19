@@ -30,7 +30,8 @@ Pour tenter de répondre à cette problématique, nous avons divisé le travail 
 
 #### Installer krona:
 
-[Krona](https://hpc.nih.gov/apps/kronatools.html)(https://github.com/marbl/Krona/wiki/Installing)
+[Krona](https://hpc.nih.gov/apps/kronatools.html)
+[InstallKrona](https://github.com/marbl/Krona/wiki/Installing)
 
 #### Créer l'environnement à partir du fichier my_env.yml : 
 ``` conda env create -f my_env.yml ```
